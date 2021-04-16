@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Taller3</string>
+    <string name="add_product">Agregar</string>
+    <string name="dialog_title">Agregar producto</string>
+    <string name="dialog_edit_name">Nombre del producto</string>
+    <string name="dialog_edit_description">Descripción del producto</string>
+    <string name="dialog_save">Guardar</string>
+</resources>
